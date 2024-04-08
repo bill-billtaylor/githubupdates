@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7ef40c083b2586100257b21d16e45ac0" extends="task" label="Test This first" max_length="40" name="x_snc_github_upd_0_test_this_first" type="collection">
+        <element label="Field 2 added" max_length="40" name="field_2_added" type="string"/>
+        <element label="New Field" max_length="40" name="new_field" type="string"/>
+    </element>
+</database>
